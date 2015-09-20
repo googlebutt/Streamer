@@ -1,5 +1,5 @@
 # Streamer
-Lightweight launcher for Livestreamer
+A lightweight launcher for Livestreamer
 
 Welcome!
 
