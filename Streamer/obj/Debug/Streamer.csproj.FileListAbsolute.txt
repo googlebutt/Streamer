@@ -1,0 +1,38 @@
+C:\Users\matew\AppData\Local\Temporary Projects\Streamer\obj\Debug\MainWindow.g.cs
+C:\Users\matew\AppData\Local\Temporary Projects\Streamer\obj\Debug\App.g.cs
+C:\Users\matew\AppData\Local\Temporary Projects\Streamer\obj\Debug\Streamer_MarkupCompile.cache
+C:\Users\matew\AppData\Local\Temporary Projects\Streamer\obj\Debug\Streamer_MarkupCompile.lref
+C:\Users\matew\AppData\Local\Temporary Projects\Streamer\bin\Debug\Streamer.exe.config
+C:\Users\matew\AppData\Local\Temporary Projects\Streamer\bin\Debug\Streamer.exe
+C:\Users\matew\AppData\Local\Temporary Projects\Streamer\bin\Debug\Streamer.pdb
+C:\Users\matew\AppData\Local\Temporary Projects\Streamer\obj\Debug\Streamer.csprojResolveAssemblyReference.cache
+C:\Users\matew\AppData\Local\Temporary Projects\Streamer\obj\Debug\MainWindow.baml
+C:\Users\matew\AppData\Local\Temporary Projects\Streamer\obj\Debug\Streamer.g.resources
+C:\Users\matew\AppData\Local\Temporary Projects\Streamer\obj\Debug\Streamer.Properties.Resources.resources
+C:\Users\matew\AppData\Local\Temporary Projects\Streamer\obj\Debug\Streamer.csproj.GenerateResource.Cache
+C:\Users\matew\AppData\Local\Temporary Projects\Streamer\obj\Debug\Streamer.exe
+C:\Users\matew\AppData\Local\Temporary Projects\Streamer\obj\Debug\Streamer.pdb
+C:\Users\matew\AppData\Local\Temporary Projects\Streamer\bin\Debug\Streamer.exe.manifest
+C:\Users\matew\AppData\Local\Temporary Projects\Streamer\bin\Debug\Streamer.application
+C:\Users\matew\AppData\Local\Temporary Projects\Streamer\obj\Debug\Streamer.exe.manifest
+C:\Users\matew\AppData\Local\Temporary Projects\Streamer\obj\Debug\Streamer.application
+C:\Users\matew\OneDrive\Documents\Visual Studio 2015\Projects\Streamer\Streamer\bin\Debug\Streamer.exe.config
+C:\Users\matew\OneDrive\Documents\Visual Studio 2015\Projects\Streamer\Streamer\bin\Debug\Streamer.exe.manifest
+C:\Users\matew\OneDrive\Documents\Visual Studio 2015\Projects\Streamer\Streamer\bin\Debug\Streamer.application
+C:\Users\matew\OneDrive\Documents\Visual Studio 2015\Projects\Streamer\Streamer\bin\Debug\Streamer.exe
+C:\Users\matew\OneDrive\Documents\Visual Studio 2015\Projects\Streamer\Streamer\bin\Debug\Streamer.pdb
+C:\Users\matew\OneDrive\Documents\Visual Studio 2015\Projects\Streamer\Streamer\obj\Debug\MainWindow.g.cs
+C:\Users\matew\OneDrive\Documents\Visual Studio 2015\Projects\Streamer\Streamer\obj\Debug\Window1.g.cs
+C:\Users\matew\OneDrive\Documents\Visual Studio 2015\Projects\Streamer\Streamer\obj\Debug\App.g.cs
+C:\Users\matew\OneDrive\Documents\Visual Studio 2015\Projects\Streamer\Streamer\obj\Debug\Streamer_MarkupCompile.cache
+C:\Users\matew\OneDrive\Documents\Visual Studio 2015\Projects\Streamer\Streamer\obj\Debug\Streamer_MarkupCompile.lref
+C:\Users\matew\OneDrive\Documents\Visual Studio 2015\Projects\Streamer\Streamer\obj\Debug\MainWindow.baml
+C:\Users\matew\OneDrive\Documents\Visual Studio 2015\Projects\Streamer\Streamer\obj\Debug\Window1.baml
+C:\Users\matew\OneDrive\Documents\Visual Studio 2015\Projects\Streamer\Streamer\obj\Debug\Streamer.g.resources
+C:\Users\matew\OneDrive\Documents\Visual Studio 2015\Projects\Streamer\Streamer\obj\Debug\Streamer.Properties.Resources.resources
+C:\Users\matew\OneDrive\Documents\Visual Studio 2015\Projects\Streamer\Streamer\obj\Debug\Streamer.csproj.GenerateResource.Cache
+C:\Users\matew\OneDrive\Documents\Visual Studio 2015\Projects\Streamer\Streamer\obj\Debug\Streamer.exe.manifest
+C:\Users\matew\OneDrive\Documents\Visual Studio 2015\Projects\Streamer\Streamer\obj\Debug\Streamer.application
+C:\Users\matew\OneDrive\Documents\Visual Studio 2015\Projects\Streamer\Streamer\obj\Debug\Streamer.exe
+C:\Users\matew\OneDrive\Documents\Visual Studio 2015\Projects\Streamer\Streamer\obj\Debug\Streamer.pdb
+C:\Users\matew\OneDrive\Documents\Visual Studio 2015\Projects\Streamer\Streamer\obj\Debug\Streamer.csprojResolveAssemblyReference.cache
